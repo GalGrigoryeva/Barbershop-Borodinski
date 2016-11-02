@@ -1,3 +1,3 @@
-# Barbershop-Borodinski
+# Barbershop "Borodinski"
 
-Учебный макет с https://htmlacademy.ru/
+Учебный проект с https://htmlacademy.ru/
