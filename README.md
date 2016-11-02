@@ -1,3 +1,3 @@
 # Barbershop "Borodinski"
 
-Учебный проект с https://htmlacademy.ru/
+Training project from https://htmlacademy.ru/
