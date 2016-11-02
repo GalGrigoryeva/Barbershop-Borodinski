@@ -1,0 +1,61 @@
+.sprite-fb_icon {
+    width: 12px;
+    height: 22px;
+    background-position: -15px -15px;
+}
+
+
+.sprite-fb_icon_black {
+    width: 12px;
+    height: 22px;
+    background-position: -15px -67px;
+}
+
+
+.sprite-ig_icon {
+    width: 21px;
+    height: 21px;
+    background-position: -15px -119px;
+}
+
+
+.sprite-ig_icon_black {
+    width: 21px;
+    height: 21px;
+    background-position: -15px -170px;
+}
+
+
+.sprite-locked {
+    width: 15px;
+    height: 17px;
+    background-position: -15px -221px;
+}
+
+
+.sprite-login_icon {
+    width: 18px;
+    height: 16px;
+    background-position: -15px -268px;
+}
+
+
+.sprite-user_icon {
+    width: 15px;
+    height: 15px;
+    background-position: -15px -314px;
+}
+
+
+.sprite-vk_icon {
+    width: 25px;
+    height: 16px;
+    background-position: -15px -359px;
+}
+
+
+.sprite-vk_icon_black {
+    width: 25px;
+    height: 16px;
+    background-position: -15px -405px;
+}
